@@ -13,4 +13,4 @@ DrivenData Challenge:https://www.drivendata.org/competitions/7/pump-it-up-data-m
 
 I worked on this project as part of a team for my coursework. The following articles by my teammates would be helpful in learning about the modelling portion for the competition:
 - https://towardsdatascience.com/pump-it-up-predict-water-pump-condition-using-data-science-2839d26638b8
-- 
+- https://medium.com/@antoniostark/predictive-modeling-and-multiclass-classification-a4d2c428a2eb
